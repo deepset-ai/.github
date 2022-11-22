@@ -10,5 +10,5 @@
 📺 Regular [Open NLP Meetups](https://www.meetup.com/open-nlp-meetup/)
     
 <p align="center">For more info on Haystack, visit our <strong><a href="https://haystack.deepset.ai">Documentation</a></strong>. You can also <strong><a class="h-7" href="https://haystack.deepset.ai/community/join">join us on Discord</a></strong></p>
-<p align="center"><strong>✨<a href="https://pypi.org/project/farm-haystack/">Haystack is on v1.10.0</a>✨</strong></p>
+<p align="center"><strong>✨<a href="https://pypi.org/project/farm-haystack/">Haystack is on v1.11.0</a>✨</strong></p>
 
