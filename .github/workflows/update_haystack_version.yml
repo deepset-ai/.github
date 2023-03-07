@@ -29,4 +29,4 @@ jobs:
           git checkout -b update-haystack-version
           git commit --all -m "Update Haystack version"
           git push -u origin update-haystack-version
-          gh pr create -B main --title 'Bump Haystack version to ${{ inputs.version }}' --fill -r devrel
+          gh pr create -B main --title 'Bump Haystack version to ${{ inputs.version }}' --fill -r deepset-ai/devrel
