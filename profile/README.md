@@ -8,7 +8,8 @@
 [**deepset**](https://www.deepset.ai/) is the company behind [**Haystack**](https://haystack.deepset.ai/), an open source AI framework to help you build production ready applications powered by LLMs, Transformer models, vector search and more. Whether you want to perform retrieval-augmented generation (RAG), document search, question answering or answer generation, Haystack provides the tools to implement composable AI systems that are easy to use, customize, extend, optimise, evaluate and ultimately deploy to production.
 
 * 📚 Start learning Haystack with our [Tutorials](https://haystack.deepset.ai/tutorials) 
-* 🧑‍🍳 Check out example notebooks in our [Cookbook](https://haystack.deepset.ai/cookbook) 
+* 🧑‍🍳 Check out example notebooks in our [Cookbook](https://haystack.deepset.ai/cookbook)
+* 🧪 Get early access to new features via [haystack-experimental](https://github.com/deepset-ai/haystack-experimental) 
 * 🤗 We host our models and datasets on [Hugging Face](https://huggingface.co/deepset)   
 * 📺 Regular [Open NLP Meetups](https://www.meetup.com/open-nlp-meetup/) 
 * 🌐 For events by Haystack, follow [our Luma calendar](https://lu.ma/haystack) 
