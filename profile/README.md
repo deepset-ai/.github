@@ -9,7 +9,8 @@
 
 * 📚 Start learning Haystack with our [Tutorials](https://haystack.deepset.ai/tutorials) 
 * 🧑‍🍳 Check out example notebooks in our [Cookbook](https://haystack.deepset.ai/cookbook)
-* 🧪 Get early access to new features via [haystack-experimental](https://github.com/deepset-ai/haystack-experimental) 
+* 🧪 Get early access to new features via [haystack-experimental](https://github.com/deepset-ai/haystack-experimental)
+* 🛡️ Haystack Enterprise: [Best Practices and Expert Support](https://www.deepset.ai/products-and-services/haystack-enterprise?utm_source=github.com&utm_medium=referral&utm_campaign=haystack_enterprise)
 * 🤗 We host our models and datasets on [Hugging Face](https://huggingface.co/deepset)   
 * 📺 Regular [Open NLP Meetups](https://www.meetup.com/open-nlp-meetup/) 
 * 🌐 For events by Haystack, follow [our Luma calendar](https://lu.ma/haystack) 
