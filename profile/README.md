@@ -1,11 +1,9 @@
 <p align="center" float="left">
-  <img alt="" src="https://raw.githubusercontent.com/deepset-ai/.github/main/deepset-logo-colored.png" width="28%"/>
-  &nbsp;
-  <img alt="" src="https://raw.githubusercontent.com/deepset-ai/.github/main/haystack-logo-colored-on-dark.png#gh-dark-mode-only" width="30%"/>
-  <img alt="" src="https://raw.githubusercontent.com/deepset-ai/.github/main/haystack-logo-colored.png#gh-light-mode-only" width="30%"/>
+  <img alt="" src="https://github.com/deepset-ai/.github/blob/haystack-enterprise-readme/Product%20Lock%20Up_White.png?raw=true#gh-dark-mode-only" width="90%"/>
+  <img alt="" src="https://github.com/deepset-ai/.github/blob/haystack-enterprise-readme/Product%20Lock%20Up_Color.png?raw=true#gh-light-mode-only" width="90%"/>
 </p>
 
-[**deepset**](https://www.deepset.ai/) is the company behind [**Haystack**](https://haystack.deepset.ai/), an open source AI framework to help you build production ready applications powered by LLMs, Transformer models, vector search and more. Whether you want to perform retrieval-augmented generation (RAG), document search, question answering or answer generation, Haystack provides the tools to implement composable AI systems that are easy to use, customize, extend, optimise, evaluate and ultimately deploy to production.
+[**deepset**](https://www.deepset.ai/) is the company behind [**Haystack**](https://haystack.deepset.ai/), an open source AI framework to help you build production ready applications powered by LLMs, Transformer models, vector search and more. Whether you want to perform retrieval-augmented generation (RAG), document search, question answering or build a conversational agent chatbot, Haystack provides the tools to implement composable AI systems that are easy to use, customize, extend, optimise, evaluate and ultimately deploy to production.
 
 * 📚 Start learning Haystack with our [Tutorials](https://haystack.deepset.ai/tutorials) 
 * 🧑‍🍳 Check out example notebooks in our [Cookbook](https://haystack.deepset.ai/cookbook)
