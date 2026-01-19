@@ -3,7 +3,7 @@
   <img alt="" src="https://raw.githubusercontent.com/deepset-ai/.github/main/Product%20Lock%20Up_Color.png#gh-light-mode-only" width="90%"/>
 </p>
 
-[**deepset**](https://www.deepset.ai/) is the company behind [**Haystack**](https://haystack.deepset.ai/), an open source AI framework that empowers Python developers to build real-world, compound, agentic LLM applications. Whether you’re building autonomous agents, multi-modal apps, or scalable RAG systems, Haystack gives you the tools to go from idea to production with ease. Its powerful, modular architecture helps you try out state-of-the-art methods, customize deeply when needed, and stay in control of your stack.
+[**deepset**](https://www.deepset.ai/) is the company behind [**Haystack**](https://haystack.deepset.ai/), an open source AI framework that empowers Python developers to build **real-world, compound, agentic LLM applications**. Whether you’re building **autonomous agents, multi-modal apps, or scalable RAG systems**, Haystack gives you the tools to go from idea to production with ease. Its powerful, modular architecture helps you try out state-of-the-art methods, customize deeply when needed, and stay in control of your stack.
 
 * 📚 Start learning Haystack with our [Tutorials](https://haystack.deepset.ai/tutorials) 
 * 🧑‍🍳 Check out example notebooks in our [Cookbook](https://haystack.deepset.ai/cookbook)
