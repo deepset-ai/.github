@@ -3,17 +3,17 @@
   <img alt="" src="https://raw.githubusercontent.com/deepset-ai/.github/main/Product%20Lock%20Up_Color.png#gh-light-mode-only" width="90%"/>
 </p>
 
-[**deepset**](https://www.deepset.ai/) is the company behind [**Haystack**](https://haystack.deepset.ai/), an open source AI framework that empowers Python developers to build **real-world, compound, agentic LLM applications**. Whether you’re building **autonomous agents, multi-modal apps, or scalable RAG systems**, Haystack gives you the tools to go from idea to production with ease. Its powerful, modular architecture helps you try out state-of-the-art methods, customize deeply when needed, and stay in control of your stack.
+[**deepset**](https://www.deepset.ai/) is the company behind [**Haystack**](https://haystack.deepset.ai/), a leading open-source AI orchestration framework for building production-ready AI applications in Python.
 
-* 📚 Start learning Haystack with our [Tutorials](https://haystack.deepset.ai/tutorials) 
-* 🧑‍🍳 Check out example notebooks in our [Cookbook](https://haystack.deepset.ai/cookbook)
-* 🧪 Get early access to new features via [haystack-experimental](https://github.com/deepset-ai/haystack-experimental)
-* 🛡️ Haystack Enterprise Starter: [Best Practices and Expert Support](https://www.deepset.ai/products-and-services/haystack-enterprise?utm_source=github.com&utm_medium=referral&utm_campaign=haystack_enterprise)
-* 🤗 We host our models and datasets on [Hugging Face](https://huggingface.co/deepset)   
-* 📺 Regular [Open NLP Meetups](https://www.meetup.com/open-nlp-meetup/) 
-* 🌐 For events by Haystack, follow [our Luma calendar](https://lu.ma/haystack) 
+Haystack enables developers and engineers to design context-engineered systems, from scalable agent workflows and RAG pipelines to multimodal applications and semantic search. Its modular architecture provides explicit control over retrieval, memory, tools, and generation, making it easy to experiment, evaluate, and deploy AI systems in real-world environments.
 
-<p align="center">For more info on Haystack, visit our <strong><a href="https://docs.haystack.deepset.ai">Documentation</a></strong>. You can also <strong><a href="https://discord.com/invite/xYvH6drSmA">join us on Discord</a></strong></p>
+  * 📖 Get started with our [Docs](https://docs.haystack.deepset.ai)
+  * 📚 Learn Haystack through our [Tutorials](https://haystack.deepset.ai/tutorials)
+  * 🧑‍🍳 Explore example notebooks in our [Cookbook](https://haystack.deepset.ai/cookbook)
+  * 🤗 Find our models and datasets here on [Hugging Face](https://huggingface.co/deepset)
+  * 🌐 See upcoming events on [our Luma calendar](https://lu.ma/haystack)
+  * 💬 Join the community on [Discord](https://discord.com/invite/xYvH6drSmA)
+
 <p align="center"><img src="https://img.shields.io/pypi/v/haystack-ai?label=Haystack%20version"/></p>
 
 
